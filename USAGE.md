@@ -37,7 +37,7 @@ For more information about hotkeys see :
 https://www.autohotkey.com/docs/Hotkeys.htm
 https://www.autohotkey.com/docs/KeyList.htm#mouse-general
 
-> /!\ I advise against using CTRL + Click as a shortcut, on Dofus Ctrl+Click allows you to move a stack of item.
+> /!\ I do not recommend using CTRL + Click as a shortcut, on Dofus Ctrl+Click allows you to move a stack of item.
 You can use CTRL + Click if and only if you're planning to use auto CtrlClicker which is what I do personally (by default : Alt+C)
 Or you could set it as CTRL+M for example and set it on your mouse buttons
 
