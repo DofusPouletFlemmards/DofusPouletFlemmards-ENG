@@ -1,3 +1,5 @@
+background-color: #A067AB;
+
 # DofusPouletFlemmards (AHK)
 
 [ [DISCORD](https://discord.gg/B9xSGG2) ] - [ [HOW TO SET UP](USAGE.md) ] - [ [FAQ](FAQ.md) ] - [ [VIDEO](https://www.youtube.com/watch?v=urj5OiX987E) ] -
