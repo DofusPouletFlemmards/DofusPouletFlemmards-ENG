@@ -128,8 +128,7 @@ ___
 
 ___
 
-### WINTER IS COMMING...  <a name="tips"></a>
-## HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA
+## WINTER IS COMMING... HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA <a name="tips"></a>
 
 If you have a mouse with programmable buttons, assign each function to a button
 
