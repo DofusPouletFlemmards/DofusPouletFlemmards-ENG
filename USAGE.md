@@ -75,7 +75,7 @@ ___
 
 ___
 
-### Auto Switch<a name="autoswitch"></a> or VIDEO >[CLICK ICI !]
+### Auto Switch<a name="autoswitch"></a> or VIDEO >[CLICK HERE !](https://www.youtube.com/watch?v=C-uG38r7FlI)<
 
 - Log in all your characters, start a challenge and join in with all your characters
 
