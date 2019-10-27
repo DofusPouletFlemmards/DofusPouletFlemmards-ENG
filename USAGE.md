@@ -11,7 +11,7 @@
 You can change default shortcuts on DofusPouletFlemmards.
 It's not possible to add the functions of a mouse (Click,wheel) as a hotkey from the interface, you have to edit the settings.ini file
 
-- Open **DofusPouletFlemmards**,  **AUTO** tab
+- Open **DofusPouletFlemmards**,  [**AUTO**] tab
 - **EDIT FILE**
 - Look for the function that you want to change in [AUTO] and assign the key you want to use
 - Then restart the program ( by default : Alt + & or exit and restart)
