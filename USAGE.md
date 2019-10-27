@@ -26,6 +26,13 @@ It's not possible to add the functions of a mouse (Click,wheel) as a hotkey from
 
 On DofusPouletFlemmards'interface, the hotkey will appear as " Ctrl + " but don't worry, it has correctly been changed
 
+**Exemple 2 - Switch Tab**<a name="tab"></a>
+
+| TAB                	| 
+|------------------------------------	|
+| SwitchTabKey=TAB               	|
+
+
 For more information about hotkeys see :
 https://www.autohotkey.com/docs/Hotkeys.htm
 https://www.autohotkey.com/docs/KeyList.htm#mouse-general
