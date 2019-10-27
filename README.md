@@ -1,6 +1,6 @@
 # DofusPouletFlemmards (AHK)
 
-[ [DISCORD](https://discord.gg/B9xSGG2) ] - [ [COMMENT CONFIGURER](USAGE.md) ] - [ [FAQ](FAQ.md) ] - [ [VIDEO](https://www.youtube.com/watch?v=urj5OiX987E) ] -
+[ [DISCORD](https://discord.gg/B9xSGG2) ] - [ [HOW TO SET UP](USAGE.md) ] - [ [FAQ](FAQ.md) ] - [ [VIDEO](https://www.youtube.com/watch?v=urj5OiX987E) ] -
 [ [PAIEMENT](#Paiement) ]
 
 
@@ -25,9 +25,9 @@
 | Auto Switch	(ON/OFF) | ALT+Q       	| Automaticaly switch window at the turn of the character                                    	|
 | Auto Skip (ON/OFF) 	| ALT+S         	| Automaticaly skip at the turn of the character  <br/> _**Auto Switch must be enabled**_             	|
 
-
+Pss : You can assign **TAB** instead of **F1** , it's more convenient... SEE [HOW TO SET UP](USAGE.md#les-raccourcis) 
 ## Usage / Instructions
-- SEE [HOW TO SETUP](USAGE.md)
+- SEE [HOW TO SET UP](USAGE.md)
 
 
 ## Screenshots
@@ -44,12 +44,12 @@
 
 Contact me on Discord to proceed with the payment
   1. Join Discord server [CLICK HERE TO JOIN](https://discord.gg/B9xSGG2)
-  2. Then, send a message to DofusPouletFlemmards#2343
+  2. Then, send a private message to DofusPouletFlemmards#2343
   3. Once the payment/kamas has been received, I'll send you the program
 
 > Don't be fooled by imposter, please make sure to check my discord ID which is : #23434
 
-- MEANS OF PAYMENT : **Payal** or **Kamas**
+- MEANS OF PAYMENT : **Paypal** or **Kamas**
 
 |  PAYPAL 	|  KAMAS 	|
 |---	|---	|
