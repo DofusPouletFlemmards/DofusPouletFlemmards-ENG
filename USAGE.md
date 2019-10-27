@@ -3,7 +3,7 @@
 
 # USAGE / INSTRUCTIONS
 
-[ [ACCUEIL](README.md) ] - [ [LES RACCOURCIS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] -
+[ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] -
 [ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ]
 
 ### SHORTCUTS <a name="raccourcis"></a>
