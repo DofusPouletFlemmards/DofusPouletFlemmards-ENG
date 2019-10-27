@@ -40,7 +40,7 @@ Pss : You can assign **TAB** instead of **F1** , it's more convenient... SEE [HO
 ## VIDEO
 <a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](https://i.imgur.com/dM4nyeg.png)</a>
 
-## Paiement<a name="Paiement"></a>
+## Payment<a name="Paiement"></a>
 
 Contact me on Discord to proceed with the payment
   1. Join Discord server [CLICK HERE TO JOIN](https://discord.gg/B9xSGG2)
