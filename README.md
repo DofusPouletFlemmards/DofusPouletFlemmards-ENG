@@ -1,7 +1,7 @@
 # DofusPouletFlemmards (AHK)
 
 [ [DISCORD](https://discord.gg/B9xSGG2) ] - [ [HOW TO SET UP](USAGE.md) ] - [ [FAQ](FAQ.md) ] - [ [VIDEO](https://www.youtube.com/watch?v=urj5OiX987E) ] -
-[ [PAIEMENT](#Paiement) ]
+[ [PAIEMENT](#Paiement) ] - [ [FRENCH VER.](https://dofuspouletflemmards.github.io/DofusPouletFlemmards/) ] 
 
 
 **DofusPouletFlemmard** is an Autohotkey (AHK) that provides several features that will make your experience much better for multi accounting on **Dofus Retro 1.29**
