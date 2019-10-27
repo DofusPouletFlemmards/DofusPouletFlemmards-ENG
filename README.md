@@ -14,16 +14,16 @@
 
 | Fonction    	| Raccourci     	| Description                                                                                   	|
 |-------------	|---------------	|-----------------------------------------------------------------------------------------------	|
-| Log In      	| Start button 	| Log every account automaticaly                                                  	|
-| Switch Tab      	| F1 	| Switch between Dofus' tabs                                                 	|
+| Log In      	| Start button 	| Log every account automatically                                                  	|
+| Switch Tab      	| F1 	| Switch between Dofus' windows                                                	|
 | Move        	| Alt+LClick 	| Move every character to a position                                   	|
 | Join        	| CTRL+Z        	| Join the fight for every character                                                   	|
 | Ready       	| CTRL+R        	| Ready all characters                                                              	|
 | Escape      	| CTRL+E        	| Remove the end game result for every character                                   	|
 | Pairing     	| ALT+&         	| Pair your characters to the Dofus' windows <br/> _**Required if you want to use auto Switch/Invite**_                                                	|
 | Invite     	| ALT+é         	| Invite every character to party  	|
-| Auto Switch	(ON/OFF) | ALT+Q       	| Automaticaly switch window at the turn of the character                                    	|
-| Auto Skip (ON/OFF) 	| ALT+S         	| Automaticaly skip at the turn of the character  <br/> _**Auto Switch must be enabled**_             	|
+| Auto Switch	(ON/OFF) | ALT+Q       	| Automatically switch window at the turn of the character                                  	|
+| Auto Skip (ON/OFF) 	| ALT+S         	| Automatically skip at the turn of the character  <br/> _**Auto Switch must be enabled**_             	|
 
 Pss : You can assign **TAB** instead of **F1** , it's more convenient... SEE [HOW TO SET UP](USAGE.md#les-raccourcis) 
 ## Usage / Instructions
@@ -47,7 +47,7 @@ Contact me on Discord to proceed with the payment
   2. Then, send a private message to DofusPouletFlemmards#2343
   3. Once the payment/kamas has been received, I'll send you the program
 
-> Don't be fooled by imposter, please make sure to check my discord ID which is : #23434
+> Don't be fooled by an imposter, please make sure to check my discord ID which is : #23434
 
 - MEANS OF PAYMENT : **Paypal** or **Kamas**
 
