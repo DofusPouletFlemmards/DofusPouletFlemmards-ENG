@@ -59,9 +59,9 @@ If you have changed the default installation folder
 
 Your file must be of this format :
 
->id:pw
->id:pw
->id:pw
+>id:pw  
+>id:pw  
+>id:pw  
 
 _**(OPTIONAL)**_ To make things easier, check "Keep GUI on top" it'll keep DofusPouletFlemmard on top of every windows
 
