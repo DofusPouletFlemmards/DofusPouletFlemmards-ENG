@@ -47,7 +47,7 @@ Contact me on Discord to proceed with the payment
   2. Then, send a private message to DofusPouletFlemmards#2343
   3. Once the payment/kamas has been received, I'll send you the program
 
-> Don't be fooled by an imposter, please make sure to check my discord ID which is : #23434
+> Don't be fooled by an imposter, please make sure to check my discord ID which is : #2343
 
 - MEANS OF PAYMENT : **Paypal** or **Kamas**
 
