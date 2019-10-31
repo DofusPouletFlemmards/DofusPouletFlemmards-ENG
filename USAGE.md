@@ -4,7 +4,7 @@
 # USAGE / INSTRUCTIONS
 
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] -
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ]
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(Greed/Fortune)](#autobuff) ] -  [ [TIPS](#tips) ]
 
 ## SHORTCUTS <a name="raccourcis"></a>
 
