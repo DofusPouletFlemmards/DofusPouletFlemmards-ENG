@@ -128,6 +128,16 @@ ___
 
 ___
 
+### Auto Buff ( Greed / Fortune )<a name="autobuff"></a>
+
+- Go to  "Auto Buff"
+- Set (X1,Y1) and (X2,Y2) position like this : 
+- And don't forget to assign your key on DofusPouletFlemmards and on Dofus
+
+![1](https://i.imgur.com/zMmBeEF.png)
+
+___
+
 ## WINTER IS COMMING... HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA <a name="tips"></a>
 
 If you have a mouse with programmable buttons, assign each function to a button
