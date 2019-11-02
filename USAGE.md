@@ -136,6 +136,19 @@ ___
 
 ![1](https://i.imgur.com/zMmBeEF.png)
 
+## AUTO Buff ( Coffre Ani. ) <a name="chest"></a>
+
+- Go to  "Auto Buff" -> CHEST 
+- Set (X1,Y1) et (X2,Y2) like this
+
+![1](https://i.imgur.com/AHjjBZZ.png)
+
+- Don't forget to assign the key on DFP and Dofus
+   * Chest Key : key corresponding to your in game animated chest key
+   * AnySpell Key : Must be a spell with 1 range and that can be recast each turn ( Hand-to-Hand attack, animated shovel, animated bag)
+
+- Go to Option and check " **Highlight targetable squares** "
+![1](https://i.imgur.com/pPmUlFD.png)
 ___
 
 ## WINTER IS COMMING... HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA <a name="tips"></a>
