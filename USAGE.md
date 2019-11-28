@@ -4,7 +4,7 @@
 # USAGE / INSTRUCTIONS
 
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] -
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(Greed/Fortune)](#autobuff) ] -  [ [TIPS](#tips) ]
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(Greed/Fortune)](#autobuff) ]  - [ [1 touche 1 personnage + Bip sonore](#onekey) ] - [ [TIPS](#tips) ] 
 
 ## SHORTCUTS <a name="raccourcis"></a>
 
@@ -67,9 +67,25 @@ _**(OPTIONAL)**_ To make things easier, check "Keep GUI on top" it'll keep Dofus
 
 ___
 
+
+
 ## Pairing -> IMPORTANT if you want to use Auto Switch and Invite <a name="pairing"></a>
 
+Il est possible de faire Pairing de deux manières : 
+
+**1st way - Automatic pairing via Auto log in :**
+
+- On DofusPouletFlemmards, go to "Accounts"
+- Click on the "Link Char" button 
+- Input your character name associated to your account
+- Press the "Save" button
+
+![1](https://i.imgur.com/5tynqq2.png)
+
+**2nd way - Semi-automatic pairing in game :**
+
 - On DofusPouletFlemmards : Click Chat Pos [(X,Y)] button and click on any place of the Dofus' Chat
+- You must have the green chat enabled for every character
 
 ![1](https://i.imgur.com/WabGtYn.png)
 
@@ -149,6 +165,17 @@ ___
 
 - Go to Option and check " **Highlight targetable squares** "
 ![1](https://i.imgur.com/pPmUlFD.png)
+
+___
+## 1 touche 1 personnage + Bip sonore <a name="onekey"></a>
+
+- Once you've done the pairing
+- Click on the "Chicken Factory" button
+- Assign the key you want for a character
+- (OPTIONAL) Beep when it's the turn of a character.
+- Press the " Save " button
+
+![1](https://i.imgur.com/k4BafzK.png)
 ___
 
 ## WINTER IS COMMING... HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA <a name="tips"></a>
