@@ -104,7 +104,7 @@ ___
 **Second step:**
 
 To take a screenshot :
- **Impr Écran** key or only available on Windows 10 : **Win+Shift+S**
+ **prt scr** key or only available on Windows 10 : **Win+Shift+S**
 
 Still in fight with all characters :
 With **Win+Shift+S**
@@ -117,8 +117,8 @@ With **Win+Shift+S**
 
 ___
 
-With **Impr Ecran**
-- Press _**Impr Ecran**_ when the illustration to signal your turn appears and capture the area containing your name
+With **prt scr**
+- Press _**prt scr**_ when the illustration to signal your turn appears and capture the area containing your name
 - Open Paint ( Press the WIN key then type Paint)
 - _**CTRL-V**_ to paste
 - Then select the area containing the name with the rectangular form and click on crop
@@ -167,7 +167,7 @@ ___
 ![1](https://i.imgur.com/pPmUlFD.png)
 
 ___
-## 1 touche 1 personnage + Bip sonore <a name="onekey"></a>
+## 1 key 1 char + Beep <a name="onekey"></a>
 
 - Once you've done the pairing
 - Click on the "Chicken Factory" button
@@ -176,6 +176,51 @@ ___
 - Press the " Save " button
 
 ![1](https://i.imgur.com/k4BafzK.png)
+___
+
+## Auto Trade <a name="trade"></a>
+
+/!\ Auto switch needs to be activated in order to work
+
+- Trade with one of your character and don't accept yet
+- On DPF 2.0, in "Auto 2"
+- Configure the position NamePos(X1,Y1) and Name Pos 2 (X2,Y2) like the screen 
+
+![1](https://i.imgur.com/t8eOmoL.png)
+
+- Take a screenshot of the name of the character (Using the snipping tool is easier than using prt scr + paint)
+
+![1](https://i.imgur.com/GrB9JeG.png)
+
+
+- (IF YOU USE PAINT) Don't forget to the select the area containing the name and crop
+- 
+Save the image in **\Documents\DofusPourLesFlemmards\Screenshots-ECHANGE**, the filename has to be **IDENTICAL** to the name of your character
+![1](https://i.imgur.com/jFwNwFS.png)
+
+
+- Accept the trade and
+- Configure the position AcceptPos(X,Y) like the screen (BLUE DOT)
+- Don't take a position contaning a white color ( from the word Accept ), only orange
+
+![1](https://i.imgur.com/9qI4um0.png)
+
+___
+
+## Auto No Loot <a name="loot"></a>
+
+/!\ Auto switch needs to be activated in order to work
+
+- Start a challenge with one of your character, then give up to get the end gamme result don't close it yet
+- On DPF, in "Auto 2"
+- Configure the EF.Ind Pos (X1,Y1) and EF.Ind Pos 2(X2,Y2) like the screen
+![1](https://i.imgur.com/e9xBWJV.png)
+
+- Take a screenshot of the are containg the word "PERDANTS" or whatever it is for your language
+![1](https://i.imgur.com/EqtYTJT.png)
+- Select the area containg the word "Perdants " and crop (If you use paint)
+- Save the image in **\Documents\DofusPourLesFlemmards\Screenshots-ENDGAME**,the filename must be **EndFightIndicator** 
+
 ___
 
 ## WINTER IS COMMING... HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA <a name="tips"></a>
