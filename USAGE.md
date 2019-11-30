@@ -4,7 +4,7 @@
 # USAGE / INSTRUCTIONS
 
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] -
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(Greed/Fortune)](#autobuff) ]  - [ [1 touche 1 personnage + Bip sonore](#onekey) ] - [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(Greed/Fortune)](#autobuff) ]  - [ [1 touche 1 personnage + Bip sonore](#onekey) ] - [ [AUTO TRADE](#trade) ] - [ [NO LOOT](#loot) ]- [ [TIPS](#tips) ] 
 
 ## SHORTCUTS <a name="raccourcis"></a>
 
