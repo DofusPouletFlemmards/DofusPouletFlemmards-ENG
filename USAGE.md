@@ -211,7 +211,7 @@ ___
 
 /!\ Auto switch needs to be activated in order to work
 
-- Start a challenge with one of your character, then give up to get the end gamme result don't close it yet
+- Start a challenge with one of your character, then give up to get the end game result don't close it yet
 - On DPF, in "Auto 2"
 - Configure the EF.Ind Pos (X1,Y1) and EF.Ind Pos 2(X2,Y2) like the screen ( The blue dot between the inventory and map icon)
 
