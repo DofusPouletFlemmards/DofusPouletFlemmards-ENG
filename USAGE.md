@@ -213,14 +213,9 @@ ___
 
 - Start a challenge with one of your character, then give up to get the end gamme result don't close it yet
 - On DPF, in "Auto 2"
-- Configure the EF.Ind Pos (X1,Y1) and EF.Ind Pos 2(X2,Y2) like the screen
-![1](https://i.imgur.com/e9xBWJV.png)
+- Configure the EF.Ind Pos (X1,Y1) and EF.Ind Pos 2(X2,Y2) like the screen ( The blue dot between the inventory and map icon)
 
-- Take a screenshot of the are containg the word "PERDANTS" or whatever it is for your language
-![1](https://i.imgur.com/EqtYTJT.png)
-- Select the area containg the word "Perdants " and crop (If you use paint)
-- Save the image in **\Documents\DofusPourLesFlemmards\Screenshots-ENDGAME**,the filename must be **EndFightIndicator** 
-
+![1](https://i.imgur.com/9XX7Er5.png)
 ___
 
 ## WINTER IS COMMING... HOW TO KEEP ONE HAND WARM WHILE PLAYING HAHA <a name="tips"></a>
